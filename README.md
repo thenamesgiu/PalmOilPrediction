@@ -21,3 +21,9 @@ O repositório em questão apresenta uma possível solução para o desafio de p
 - Alguns valores nulos surgiram em production após o merge, logo, realizei o treinamento do modelo com *HistGradientBoostingRegressor*
 
 **Score: 0.06774241133866515**
+
+## Gráfico - produção por ano
+
+<p align="center">
+  <img src="https://github.com/thenamesgiu/PalmOilPrediction/blob/main/graph/byYear.png">
+</p>
